@@ -1,4 +1,4 @@
-# A curated list of awesome Natives working in the tech industry
+# Awesome Natives in Tech
 
 | Avatar                                                                                | Name          | Nation                  | Location           |
 | ------------------------------------------------------------------------------------- | ------------- | ----------------------- | ------------------ |
