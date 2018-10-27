@@ -9,3 +9,4 @@
 | <img  src="https://avatars1.githubusercontent.com/u/1409156?v=4" width=50 /> | [Alex Clemmer](https://github.com/hausdorff)     | [Chinook Nation](www.chinooknation.org/)                        |
 | <img src="https://avatars2.githubusercontent.com/u/3577743?v=4" width=50 />  | [Victor Temprano](https://github.com/tempranova) | Native Ally                                                     |
 | <img src="https://avatars2.githubusercontent.com/u/305978?v=4" width=50>     | [Julian Kussman](https://github.com/jkuss)       | [Cherokee Nation](https://www.cherokee.org/)                    |
+| <img src="https://avatars2.githubusercontent.com/u/457373?v=4" width=50>     | [Manuel Mager](https://github.com/pywirrarika)   | Native Ally                                                     |
