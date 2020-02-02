@@ -1,8 +1,25 @@
 # Awesome Natives in Tech
 
-## Summary
+## Intro
 
-This is a non-exhaustive list of Natives, Native descendants, and Native allies who work in the software development field. The people listed here either identify as Native or aspire to reflect the values of the community they are from, or serve, as best they can. If you or someone you know should be added to this list please submit a PR! In the PR please provide the following information added to the markdown list below: GitHub image url, name, GitHub url, and a link to the Nation they are a member/descendant of or the phrase "Native Ally" in its place.
+This is a non-exhaustive list of Natives, Native descendants, and Native allies who work in the software development field. The people listed here either identify as Native or aspire to reflect the values of the community they are from, or serve, as best they can.
+
+## Usage
+
+If you, or someone you know, should be added to this list please submit a PR! In the PR please provide the following information added to the markdown list below:
+
+- Name
+- GitHub image url
+- GitHub url
+- Link to the Nation or the phrase "Native Ally" in its place
+
+## Code of Conduct
+
+Our code of conduct guides interactions in this repository: [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
+
+## License
+
+This repository is licensed under MIT: [LICENSE](LICENSE).
 
 ## List
 
@@ -20,4 +37,4 @@ This is a non-exhaustive list of Natives, Native descendants, and Native allies 
 | <img src="https://avatars2.githubusercontent.com/u/3605492?v=4" width=50 />  | [Courtney von Nieda](http://www.github.com/cjv)         | [Cherokee Nation](https://www.cherokee.org/)                                                                                |
 | <img src="https://avatars2.githubusercontent.com/u/457373?v=4" width=50 />   | [Manuel Mager](https://github.com/pywirrarika)          | Native Ally                                                                                                                 |
 | <img src="https://avatars2.githubusercontent.com/u/2897567?v=4" width=50 />  | [Cody Sutherland](https://github.com/csutherl)          | [Waccamaw Siouan Indians](https://waccamaw-siouan.net/)                                                                     |
-| <img src="https://avatars1.githubusercontent.com/u/1896845?v=4" width=50 />  | [Kevin Sooley](https://github.com/Kevtron)          | [NunatuKavut](http://www.nunatukavut.ca/)                                                                     |
+| <img src="https://avatars1.githubusercontent.com/u/1896845?v=4" width=50 />  | [Kevin Sooley](https://github.com/Kevtron)              | [NunatuKavut](http://www.nunatukavut.ca/)                                                                                   |
