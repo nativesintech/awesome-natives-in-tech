@@ -1,6 +1,6 @@
 # Awesome Natives in Tech
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Intro
@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Kevtron"><img src="https://avatars2.githubusercontent.com/u/1896845?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Sooley</b></sub></a><br /><a href="https://github.com/nativesintech/awesome-natives-in-tech/commits?author=Kevtron" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.nullspace.io"><img src="https://avatars1.githubusercontent.com/u/1409156?v=4" width="100px;" alt=""/><br /><sub><b>Alex Clemmer</b></sub></a><br /><a href="https://github.com/nativesintech/awesome-natives-in-tech/commits?author=hausdorff" title="Documentation">📖</a></td>
   </tr>
 </table>
 
