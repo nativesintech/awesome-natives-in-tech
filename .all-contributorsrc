@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "hausdorff",
+      "name": "Alex Clemmer",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1409156?v=4",
+      "profile": "http://www.nullspace.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
