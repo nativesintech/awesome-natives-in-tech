@@ -1,4 +1,7 @@
 # Awesome Natives in Tech
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Intro
 
@@ -38,3 +41,22 @@ This repository is licensed under MIT: [LICENSE](LICENSE).
 | <img src="https://avatars2.githubusercontent.com/u/457373?v=4" width=50 />   | [Manuel Mager](https://github.com/pywirrarika)          | Native Ally                                                                                                                 |
 | <img src="https://avatars2.githubusercontent.com/u/2897567?v=4" width=50 />  | [Cody Sutherland](https://github.com/csutherl)          | [Waccamaw Siouan Indians](https://waccamaw-siouan.net/)                                                                     |
 | <img src="https://avatars1.githubusercontent.com/u/1896845?v=4" width=50 />  | [Kevin Sooley](https://github.com/Kevtron)              | [NunatuKavut](http://www.nunatukavut.ca/)                                                                                   |
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Kevtron"><img src="https://avatars2.githubusercontent.com/u/1896845?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Sooley</b></sub></a><br /><a href="https://github.com/nativesintech/awesome-natives-in-tech/commits?author=Kevtron" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
